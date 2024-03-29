@@ -123,7 +123,7 @@ SUPPORT GROUP: <a href="https://chat.whatsapp.com/F3sB3pR3tClBvVmlIkqDJp"><img a
 
 
 ## `Main Dev` 
-<a href="https://github.com/Guru322"><img src="https://github.com/Guru322.png" width="250" height="250" alt="Guru322"/></a>
+<a href="https://github.com/Guru893"><img src="https://github.com/Guru322.png" width="250" height="250" alt="Guru322"/></a>
   
 `GURU-BOT - By Guru322`
 
